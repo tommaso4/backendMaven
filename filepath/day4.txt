@@ -1,0 +1,1 @@
+# name='King Of the  rings1@, category='Books@, price=22.0# name='Storia Medievale2@, category='Boys@, price=31.0# name='Cappucceto Rosso1@, category='Baby@, price=12.0# name='Cappucceto Rosso2@, category='Baby@, price=15.0# name='Storia Medievale1@, category='Boys@, price=35.0# name='King Of the  rings2@, category='Books@, price=125.0
