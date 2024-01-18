@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8225779b-2288-4284-b012-92a52f904de2" name="Changes" comment="day4-maven-stream">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/day4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filepath/file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/week2/day4_Streem2File/Costumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/week2/day4_Streem2File/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/week2/day4_Streem2File/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/week2/day4_Streem2File/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/week2/day4_Streem2File/UseClassD4.java" afterDir="false" />
-    </list>
+    <list default="true" id="8225779b-2288-4284-b012-92a52f904de2" name="Changes" comment="day4-maven-stream" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +52,15 @@
       <option name="presentableId" value="Default" />
       <updated>1705573658626</updated>
     </task>
+    <task id="LOCAL-00001" summary="day4-maven-stream">
+      <option name="closed" value="true" />
+      <created>1705594549393</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705594549393</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
