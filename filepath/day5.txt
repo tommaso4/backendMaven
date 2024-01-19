@@ -1,0 +1,5 @@
+Book{isbn=873 @  titolo=Shantaram @  anno=1998 @  numPages=1170 @  Author=G.G.David @  Genres=Biografico}
+Book{isbn=6 @  titolo=Shantaram2 @  anno=2000 @  numPages=1170 @  Author=G.G.David @  Genres=Biografico}
+Magazine{isbn=112 @  titolo=SurfLine @  anno=2020 @  numPages=90 @  periodicity=MONTHLY}
+Magazine{isbn=178 @  titolo=Veggie @  anno=2021 @  numPages=90 @  periodicity=WEEKLY}
+Magazine{isbn=688 @  titolo=Veggie3 @  anno=2020 @  numPages=90 @  periodicity=WEEKLY}

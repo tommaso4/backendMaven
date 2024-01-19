@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8225779b-2288-4284-b012-92a52f904de2" name="Changes" comment="day4-maven-stream" />
+    <list default="true" id="8225779b-2288-4284-b012-92a52f904de2" name="Changes" comment="day4-maven-stream">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filepath/day5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/week2/day5Project/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/week2/day5Project/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/week2/day5Project/Magazine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/week2/day5Project/NoMoreSpaceException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/week2/day5Project/Periodicity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/week2/day5Project/Archive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filepath/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/week2/day4_Streem2File/UseClassD4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/week2/day4_Streem2File/UseClassD4.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +27,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -20,9 +35,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2b7klTp7Bau5S8wHW6JwlZQ8f9M" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -34,15 +52,28 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Archive.executor": "Run",
+    "Application.Archivio.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.UseClassD4.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "C:/Users/Tommaso Cantarini/IdeaProjects/Epicode_Maven/src/test/java",
+    "last_opened_file_path": "C:/Users/Tommaso Cantarini/IdeaProjects/corso_epicode",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1705594549393</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day4-maven-stream">
+      <option name="closed" value="true" />
+      <created>1705595899063</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705595899063</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
